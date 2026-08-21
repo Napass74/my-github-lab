@@ -13,3 +13,5 @@ This repository is where I practice the full GitHub workflow.
 
 ## Notes
 GitHub ใช้เก็บโปรเจกค์งานแนวโค้ดไว้เหมือนเป็น  Google Drive 
+
+See also: [local-notes.md](local-notes.md)
